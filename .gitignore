@@ -1,0 +1,5 @@
+_next/
+out/
+dist/
+*.map
+
